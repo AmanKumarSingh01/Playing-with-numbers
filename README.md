@@ -1,3 +1,8 @@
+tHIS IS JUST A WEB APP IN WHICH I AM FETCHING AN API AND GIVING FATES RELATED TO NUMBERS
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
